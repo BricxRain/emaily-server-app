@@ -1,0 +1,9 @@
+{
+    "name": "Heroku upload testing",
+    "description": "A sample testing of uploading files in heroku",
+    "repository": "",
+    "logo": "https://media.licdn.com/dms/image/C5603AQHL81qZrKE1rw/profile-displayphoto-shrink_200_200/0?e=1568851200&v=beta&t=xBcZgbiDCsXYX7T13qdmB0pN38g7MRfNQXZV6md3UlE",
+    "keywords": ["node","express","static"],
+    "image": "heroku/heroku-upload"
+
+}
